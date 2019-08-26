@@ -1,0 +1,44 @@
+#app {
+  color: #2c3e50;
+}
+
+.link {
+  font-style: italic;
+  cursor: pointer;
+}
+
+.auth-form {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
+  .md-title {
+    text-align: center;
+  }
+  .md-progress-bar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.relative {
+  position: relative;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.md-app {
+  height: 100vh;
+}
+
+.md-app-content {
+  padding-bottom: 70px;
+}
